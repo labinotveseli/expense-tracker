@@ -25,3 +25,11 @@ Expense Tracker offers the following features:
 
 <b>You can try the Demo of this App here:</b> 
 - [Expense Tracker](https://expense-tracker-rjs.netlify.app/)
+
+
+<hr>
+<p align="center">
+<b>Here is the layout of the App:</b>
+<hr>
+<img src="https://i.postimg.cc/4dXj9MKM/scr1.jpg" height="100%" width="100%" alt="phonebook1"/>
+
