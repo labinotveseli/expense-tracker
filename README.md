@@ -1,7 +1,7 @@
 # Expense Tracker
 
 <h2>Description:</h2>
-Expense Tracker is a TypeScript-based expense tracking application built with React and Bootstrap using the Vite framework. It allows users to easily track and manage their expenses, helping them maintain a better understanding of their financial habits.
+Expense Tracker is a simple TypeScript-based expense tracking application built with React and Bootstrap using the Vite framework. It allows users to easily track and manage their expenses, helping them maintain a better understanding of their financial habits.
 
 
 <h2>Languages and Utilities Used</h2>
