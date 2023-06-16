@@ -10,7 +10,6 @@ Expense Tracker is a TypeScript-based expense tracking application built with Re
 - <b>TypeScript</b>
 - <b>Bootstrap</b>
 - <b>HTML</b>
-- <b>CSS</b>
 
 
 <h2>Features</h2>
