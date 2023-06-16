@@ -31,5 +31,5 @@ Expense Tracker offers the following features:
 <p align="center">
 <b>Here is the layout of the App:</b>
 <hr>
-<img src="https://i.postimg.cc/4dXj9MKM/scr1.jpg" height="100%" width="100%" alt="phonebook1"/>
+<img src="https://i.postimg.cc/4dXj9MKM/scr1.jpg" height="100%" width="100%" alt="expensetracker"/>
 
