@@ -1,7 +1,7 @@
-# Expensive Tracker
+# Expense Tracker
 
 <h2>Description:</h2>
-Expensive Tracker is a TypeScript-based expense tracking application built with React and Bootstrap using the Vite framework. It allows users to easily track and manage their expenses, helping them maintain a better understanding of their financial habits.
+Expense Tracker is a TypeScript-based expense tracking application built with React and Bootstrap using the Vite framework. It allows users to easily track and manage their expenses, helping them maintain a better understanding of their financial habits.
 
 
 <h2>Languages and Utilities Used</h2>
@@ -14,7 +14,7 @@ Expensive Tracker is a TypeScript-based expense tracking application built with 
 
 
 <h2>Features</h2>
-Expensive Tracker offers the following features:
+Expense Tracker offers the following features:
 
 - <b>Expense Input: Easily add new expenses with descriptions, amounts, and category selections.</b>
 - <b>Expense Table: View and filter expenses by category, with columns for description, amount, and category.</b>
@@ -25,4 +25,4 @@ Expensive Tracker offers the following features:
 <h2>App walk-through:</h2>
 
 <b>You can try the Demo of this App here:</b> 
-- [Expense Tracker](https://expense-tracker.netlify.app/)
+- [Expense Tracker](https://expense-tracker-rjs.netlify.app/)
